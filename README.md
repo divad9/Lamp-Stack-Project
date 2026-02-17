@@ -20,14 +20,14 @@ The goal of this project was to set up a fully functional LAMP stack on a Linux 
 ### PHP Info Page (Browser)
 > _Replace with your screenshot of the PHP page in the browser_
 
-![PHP Info Page](screenshots/PHP-final.jpeg)
+![PHP Info Page](screenshots/PHP-final.jpg)
 
 ---
 
 ### Terminal — Final Command Output
 > _Replace with your screenshot of the bash terminal showing the last line of code_
 
-![Terminal Output](screenshots/fc.jpeg)
+![Terminal Output](screenshots/fc.jpg)
 
 ---
 
