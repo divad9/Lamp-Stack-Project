@@ -93,7 +93,7 @@ echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/index.php
 
 ## Author
 
-> _Add your name and GitHub profile link here_
+> David Babayo
 
 ---
 
